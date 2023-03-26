@@ -10,6 +10,7 @@ body {
     padding-top: 100px;
     height: 850px;
     margin: auto;
+    padding-right: 50px;
 }
 
 .moon {
@@ -61,6 +62,7 @@ hr {
 .bottom {
     background-color: #DEF5E5;
     padding: 30px 0px 20px 0px;
+    padding-right: 50px;
 }
 
 .mid {
